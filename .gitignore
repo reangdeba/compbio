@@ -1,2 +1,5 @@
 /datasets
 /notebooks/.ipynb_checkpoints
+/notebooks/write
+.DS_Store
+/notebooks/figures
